@@ -4,9 +4,12 @@ header{
 }
 
 body{
-    width: 100%;
+    width:100%;
     padding: 0 auto;
     margin: 0 auto;
+    background-color: whitesmoke;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 h2{
