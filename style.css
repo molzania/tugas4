@@ -1,0 +1,23 @@
+header{
+    background-color: plum;
+    text-align: center;
+    text-size: 20px;
+}
+
+body{
+    width: 100%;
+    padding: 0 auto;
+    margin: 0 auto;
+}
+
+h2{
+    text-align: center;
+}
+
+footer{
+    background-color: yellow;
+    text-align: center;
+    text-size: 12px;
+
+}
+
